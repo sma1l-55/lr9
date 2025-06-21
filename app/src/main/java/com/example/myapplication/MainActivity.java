@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         });
         ConstraintLayout constraintLayout = new ConstraintLayout(this);
         TextView textView = new TextView(this);
-        Intent intent = new Intent(this, MainActivity12.class);
+        Intent intent = new Intent(this, MainActivity14.class);
         startActivity(intent);
         finish();
     }
